@@ -46,6 +46,16 @@ Make sure your MySQL database is running and matches the expected schema.
 This project was created as part of a school project to present local neighborhood data.  
 While most features show real data, the visa submission form is a humorous internal feature.
 
+
+---
+
+## Contact
+
+- GitHub: [https://github.com/Paycee](https://github.com/Paycee)  
+- Email: pavle.milenovic@gmail.com  
+- [Upwork](https://www.upwork.com/freelancers/~01c2e1c44b41bb7941?mp_source=share)
+- [Freelancer](https://www.freelancer.com/u/pavlemilenovic?frm=pavlemilenovic&sb=t)
+- 
 ---
 
 Thank you for checking out the project!  
