@@ -55,7 +55,7 @@ While most features show real data, the visa submission form is a humorous inter
 - Email: pavle.milenovic@gmail.com  
 - [Upwork](https://www.upwork.com/freelancers/~01c2e1c44b41bb7941?mp_source=share)
 - [Freelancer](https://www.freelancer.com/u/pavlemilenovic?frm=pavlemilenovic&sb=t)
-- 
+
 ---
 
 Thank you for checking out the project!  
