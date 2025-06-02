@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="main.css">
+    <title>Виза</title>
+    <script src="viza.js" defer></script>
+  </head>
+  <body>
+    <h1>Виза</h1>
+    <header>
+      <div class="navbar">
+        <ul>
+          <li><a href="index.html">Почетна</a></li>
+          <li><a href="ulice.html">Улице</a></li>
+          <li><a href="lokali.html">Локали</a></li>
+          <li><a href="prevoz.html">Превоз</a></li>
+          <li>Виза</li>
+      </ul>
+    </div>
+    </header>
+
+    <div class="main">
+      <div id="col1">
+        <img width="100%" class="slika" src="images\smartblocklogo.jpg">
+       <br><br><br>
+       <img width="100%" class="slika" src="images\smartblock.jpg">
+     </div>
+      
+      <div id="col2">Буди и ти део нас!</div>
+      <div id="col3">
+        <div class="form">
+
+        <div class="ime"> 
+            <label for="ime">Име</label><br>
+            <input type="text" name="ime" id="ime">
+        </div>
+
+        <div class="prezime">
+            <label for="prezime">Презиме</label><br>
+            <input type="text" name="prezime" id="prezime">
+        </div>
+
+        <div class="godinaRodjenja">
+          <label for="godiste">Година рођења</label><br>
+          <input type="number" name="godiste" id="godiste">
+        </div>
+
+        <div class="jmbg">
+          <label for="jmbg">ЈМБГ</label><br>
+          <input type="number" name="jmbg" id="jmbg">
+        </div>
+<br>
+        <div id="errorDiv"></div>
+        
+<br>
+        <button type="button" id="viza_dugme">Предај</button>
+        </div>
+    </div>
+  </div>
+
+    <footer>
+      <p>&copy Copyright Миленовић Серафимовић</p>
+    </footer>
+  </body>
+</html>
