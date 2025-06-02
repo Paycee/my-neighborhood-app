@@ -34,7 +34,7 @@ npm install
 
 3️⃣ Start the server:
 ```bash
-node server.js
+node index.js
 ```
 
 The backend will run on `http://localhost:5018`.
